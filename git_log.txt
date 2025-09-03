@@ -1,0 +1,58 @@
+commit b30d5a053cb27fcc236b60f5cdedec1e0e2406d2
+Merge: b4e9e66 85c1bdf
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Wed Sep 3 00:54:51 2025 -0700
+
+    Resolves the merge conflicts of index.html and commits it to main
+
+commit 85c1bdfcdfc850b3b6765fd39d134b38b89a1438
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Wed Sep 3 00:18:45 2025 -0700
+
+    Commits my index.html with the added favorite movie
+
+commit b4e9e66a6515d79803086560a6b258ffbb4be462
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Wed Sep 3 00:13:57 2025 -0700
+
+    Commits my index.html with the added favorite food
+
+commit d444d7f16bde425a8e381c139bff327afafe198f
+Merge: 3fed94a 9963742
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Tue Sep 2 23:59:26 2025 -0700
+
+    Merge branch 'main' of https://github.com/YuanweiChenZZZ/CS3338-second-project
+
+commit 3fed94af082aedc3f811b40480101ae14917e7a1
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Tue Sep 2 23:25:12 2025 -0700
+
+    Commits my README.md directly to main
+
+commit 8b9e973caa1ac5597e3728bcf1af77bc87d6846f
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Tue Sep 2 23:14:03 2025 -0700
+
+    Commits my README.md directly to main
+
+commit 996374259ed44449b8c7089dfd238b12b3795e6a
+Merge: 1d2bfc0 6e39a67
+Author: Yuanwei Chen <95829496+YuanweiChenZZZ@users.noreply.github.com>
+Date:   Tue Sep 2 23:01:11 2025 -0700
+
+    Approves committing branch changes to main
+    
+    Pushes the info-fill branch changes to main
+
+commit 6e39a6739dd11d7284e71b90006b61e07d3307f2
+Author: Yuanwei Chen <yuanweichenzzz@gmail.com>
+Date:   Tue Sep 2 22:41:07 2025 -0700
+
+    Commits the edited index.html file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
